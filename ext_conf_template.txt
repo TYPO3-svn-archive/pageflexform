@@ -1,0 +1,11 @@
+# cat=basic/enable; type=text; label=Add to this doktypes
+registertodoktypes=1,2,3,4,5,7,199,254,255
+
+# cat=basic/enable; type=text; label=Default position
+defaultposition=before:TSconfig
+
+# cat=basic/enable; type=text; label=Default postfix
+defaultpostfix=;;;;2-2-2
+
+# cat=basic/enable; type=text; label=Default FlexForm
+defaultFlexform=EXT:pageflexform/flexform_ds.xml

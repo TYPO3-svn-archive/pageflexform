@@ -1,0 +1,25 @@
+<T3DataStructure>
+	<meta>
+	</meta>
+	<sheets>
+	<sDEF>
+	<ROOT>
+		<TCEforms>
+			<sheetTitle>LLL:EXT:pageflexform/locallang_tca.php:pageflexform.default.title</sheetTitle>
+		</TCEforms>
+		<type>array</type>
+		<el>
+			<defaultInput>
+				<TCEforms>
+				<label>LLL:EXT:pageflexform/locallang_tca.php:pageflexform.default.input</label>
+				<config>
+					<type>input</type>
+					<size>20</size>
+				</config>
+				</TCEforms>
+			</defaultInput>
+		</el>
+	</ROOT>
+	</sDEF>
+</sheets>
+</T3DataStructure>
